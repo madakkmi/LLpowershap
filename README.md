@@ -40,17 +40,19 @@ Check out our benchmark results [here](tests/results/).
 Please cite our work as:
 
 ```bibtex
-@misc{madakkatel2024llpowershap,
-      title={LLpowershap: Logistic Loss-based Automated Shapley Values Feature Selection Method}, 
-      author={Iqbal Madakkatel and Elina Hyppönen},
-      year={2024},
-      eprint={2401.12683},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@article{madakkatel2024llpowershap,
+  title={LLpowershap: logistic loss-based automated Shapley values feature selection method},
+  author={Madakkatel, Iqbal and Hypp{\"o}nen, Elina},
+  journal={BMC Medical Research Methodology},
+  volume={24},
+  number={1},
+  pages={247},
+  year={2024},
+  publisher={Springer}
 }
 ```
 
-The manuscript can be found [here](https://arxiv.org/abs/2401.12683).
+The manuscript can be found [here](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-024-02370-8).
 
 ---
 
